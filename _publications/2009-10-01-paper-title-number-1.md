@@ -1,14 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Stability and Determinants of Social Acceptance of Innovative Sustainable Technologies. Evidence from a Two-Wave Panel Study"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'This study investigates the role of attitudinal factors in shaping the acceptance of emerging sustainable technology. Using panel data from two waves of surveys conducted in two districts of the city of Cologne, Germany (N = 204), this paper discusses the impact of environmental, prosocial, and technology attitudes, as well as beliefs about the costs and benefits of the technology. The study is part of an interdisciplinary research project, VertiKKA, funded by the Federal Ministry of Education and Research (BMBF). Autoregressive and cross-lagged structural equation models (SEM) are applied to examine the stability of attitudinal factors and their impact on the acceptance of the sustainable technology. The results of the study suggest that while most of the attitudinal factors analyzed show stable autoregressive effects, the acceptance of sustainable technology is more volatile. We also find that general attitudes have a significant impact on beliefs about benefits, while only general environmental attitudes have an effect on beliefs about costs. Both beliefs function as total mediators between general and specific attitudes, with benefits having a greater influence on acceptance than cost aspects. Overall, the study highlights the importance of considering attitudinal factors in understanding the acceptance of sustainable technologies. The results provide insights that could inform the design and promotion of sustainable technologies, as well as help policymakers and practitioners to develop effective strategies to increase their adoption.'
+date: 2023-01-01
+venue: 'Ask: Research and Methods'
+slidesurl: 
+paperurl: 'https://kb.osu.edu/items/5f976c35-a14a-4f37-9dec-e38c54bc48db'
+bibtexurl: 
+citation: 
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+This study investigates the role of attitudinal factors in shaping the acceptance of emerging sustainable technology. Using panel data from two waves of surveys conducted in two districts of the city of Cologne, Germany (N = 204), this paper discusses the impact of environmental, prosocial, and technology attitudes, as well as beliefs about the costs and benefits of the technology. The study is part of an interdisciplinary research project, VertiKKA, funded by the Federal Ministry of Education and Research (BMBF). Autoregressive and cross-lagged structural equation models (SEM) are applied to examine the stability of attitudinal factors and their impact on the acceptance of the sustainable technology. The results of the study suggest that while most of the attitudinal factors analyzed show stable autoregressive effects, the acceptance of sustainable technology is more volatile. We also find that general attitudes have a significant impact on beliefs about benefits, while only general environmental attitudes have an effect on beliefs about costs. Both beliefs function as total mediators between general and specific attitudes, with benefits having a greater influence on acceptance than cost aspects. Overall, the study highlights the importance of considering attitudinal factors in understanding the acceptance of sustainable technologies. The results provide insights that could inform the design and promotion of sustainable technologies, as well as help policymakers and practitioners to develop effective strategies to increase their adoption.
