@@ -98,15 +98,15 @@ cv:
           # - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
           # - "Men of the year 2014 by Time magazine"
 
-    Awards:
-      - title: Forschungspauschale
-        authors:
-          - Nelly Buntfuß
-          - Felix Grünewald
-        date: 2024
-        awarder: Chemnitz University of Technology
+    #Awards:
+    #  - title: Forschungspauschale
+    #    authors:
+    #      - Nelly Buntfuß
+    #      - Felix Grünewald
+    #    date: 2024
+    #    awarder: Chemnitz University of Technology
        #url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: University grant for conducting a survey experiment (3040€)
+    #    summary: University grant for conducting a survey experiment (3040€)
 
     #  - title: Max Planck Medal
     #    authors:
