@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student in Political Sociology <a href='https://www.tu-chemnitz.de/phil/politik/pf/professur/Buntfuss.php'>@Chemnitz University of Technology</a>
+subtitle: PhD Student in Political Sociology <a href='https://www.wiso.uni-hamburg.de/fachbereich-sowi/professuren/leininger/team/buntfuss.html'>@University of Hamburg</a>
 #PhD Student in Political Sociology <a href='https://www.wiso.uni-hamburg.de/en/fachbereich-sowi/ueber-den-fachbereich/aktuelles/2026/2026-03-09-leininger.html'>@University of Hamburg</a>
 
 profile:
@@ -31,5 +31,5 @@ latest_posts:
 
 Hey there, I'm Nelly 👋🏻 
 
-I am a PhD student in political sociology at the Chemnitz University of Technology. My research focuses on the determinants of interpersonal evaluations of partisan groups using survey experiments. Since 2023, I have also been a research associate in a DFG-funded Emmy Noether Junior Research Group focusing on polarization in and through referendums, led by <a href ='https://www.aleininger.eu/'>Arndt Leininger</a>. 
+I am a PhD student in political sociology at the University of Hamburg. My research focuses on the determinants of interpersonal evaluations of partisan groups using survey experiments. Since 2023, I have also been a research associate in a DFG-funded Emmy Noether Junior Research Group focusing on polarization in and through referendums, led by <a href ='https://www.aleininger.eu/'>Arndt Leininger</a>. 
 
