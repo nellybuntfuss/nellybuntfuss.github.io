@@ -432,7 +432,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%6E%65%6C%6C%79.%62%75%6E%74%66%75%73%73@%77%65%62.%64%65", "_blank");
+          window.open("mailto:%6E%65%6C%6C%79.%62%75%6E%74%66%75%73%73@%75%6E%69-%68%61%6D%62%75%72%67.%64%65", "_blank");
         },
       },{
         id: 'social-researchgate',
